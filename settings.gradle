@@ -1,0 +1,2 @@
+includeFlat 'Fusion'
+rootProject.name = 'Fusion-mongo'
