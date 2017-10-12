@@ -1,2 +1,2 @@
 # Fusion-mongo
-Fusion Worker for MongoDB
+Fusion worker for mongodb
